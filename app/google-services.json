@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126578937252",
+    "firebase_url": "https://lagu-99cc9.firebaseio.com",
+    "project_id": "lagu-99cc9",
+    "storage_bucket": "lagu-99cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126578937252:android:0270c3cd1d6fb69a",
+        "android_client_info": {
+          "package_name": "com.intanyoshanaoewen.lagu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126578937252-g0qgfeb8n9qdqoprr494fp9e3g1ni1vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intanyoshanaoewen.lagu",
+            "certificate_hash": "bfc1c73ab79e40eb2227017bb03432a50bb74476"
+          }
+        },
+        {
+          "client_id": "126578937252-um7tlv8slu44i81bbs56qf54i5koevrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsJtIMXey-5tBo00HmLx9QKIhWf_d2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126578937252-um7tlv8slu44i81bbs56qf54i5koevrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
